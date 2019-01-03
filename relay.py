@@ -1,3 +1,5 @@
+# program for NB to control his board from India
+
 import RPi.GPIO as GPIO
 ##import tkinter 
 import time
